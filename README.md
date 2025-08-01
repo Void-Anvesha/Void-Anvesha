@@ -1,4 +1,10 @@
 # 💫 About Me:
+🏢 **AI Intern, amasQIS.ai**  
+📍 **Masqat, Oman**  
+🕒 **21:16 - same time**  
+✉️ **anvesharastogi1717@gmail.com**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/anvesha-rastogi-905535311)  
+
 Hi there 👋<br>🔭 I’m currently working on Generative AI<br>🌱 I’m currently learning LangChain & Deep Learning<br>👯 I’m looking to collaborate on ML & DL Projects<br>💬 Ask me about Machine Learning<br>📫 How to reach me: anvesharastogi1717@gmail.com
 
 
