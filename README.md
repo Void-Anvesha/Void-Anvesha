@@ -51,16 +51,8 @@ me.say_hi()
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
 
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
-![Chroma](https://img.shields.io/badge/ChromaDB-FF6900?style=for-the-badge)
+
 
 </div>
 
@@ -95,7 +87,6 @@ me.say_hi()
 <td width="50%">
 
 ### 🛠️ Building & Creating
-- LangChain Runnable implementations
 - AI-powered applications
 - MLOps pipelines
 - Open-source contributions
@@ -106,20 +97,14 @@ me.say_hi()
 
 ---
 
-## 🏆 Featured Projects
 
-<div align="center">
-
-[![LangChain-Runnable](https://github-readme-stats.vercel.app/api/pin/?username=Void-Anvesha&repo=LangChain-Runnable&theme=react)](https://github.com/Void-Anvesha/LangChain-Runnable)
-
-</div>
 
 ### 🌟 What I'm Working On
 
 ```mermaid
 graph TD
     A[🧠 AI Research] --> B[LangChain Development]
-    B --> C[Runnable Implementations]
+    B --> C[Agentic AI]
     C --> D[Production Ready Apps]
     D --> E[Open Source Contributions]
     E --> A
