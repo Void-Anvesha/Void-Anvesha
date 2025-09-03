@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=AI+%26+ML+Enthusiast;LangChain+Developer;Python+Developer;Always+Learning+Something+New!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=AI+%26+ML+Enthusiast;Python+Developer;Always+Learning+Something+New!)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,7 +16,7 @@ class VoidAnvesha:
         self.name = "Anvesha"
         self.role = "AI/ML Developer"
         self.interests = ["Machine Learning", "LangChain", "NLP", "Deep Learning"]
-        self.currently_working_on = "LangChain Runnable Implementations"
+        self.currently_working_on = "Agentic AI"
         self.learning = ["Advanced AI Architectures", "MLOps", "Vector Databases"]
         self.fun_fact = "I turn coffee into code and ideas into reality ☕➡️💻"
     
@@ -35,8 +35,7 @@ me.say_hi()
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
 
 ### AI/ML Frameworks
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
@@ -126,8 +125,8 @@ graph TD
 
 | **AI/ML** | **Development** | **Tools & Platforms** |
 |-----------|----------------|----------------------|
-| 🤖 Machine Learning | 🐍 Python Development | 🐳 Docker |
-| 🧠 Deep Learning | 🌐 Web Development | ☁️ AWS |
+| 🤖 Machine Learning | 🐍 Python Development | 
+| 🧠 Deep Learning | 🌐 Web Development |
 | 📝 Natural Language Processing | 🔗 API Development | 📊 Data Visualization |
 | 🦜 LangChain | ⚡ FastAPI | 📈 MLOps |
 
