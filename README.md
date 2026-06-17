@@ -1,187 +1,246 @@
-# 👋 Hey there! I'm Anvesha
-
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=AI+%26+ML+Enthusiast;Python+Developer;Always+Learning+Something+New!)](https://git.io/typing-svg)
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:090011,40:4C1D95,70:7C3AED,100:C026D3&height=280&section=header&text=ANVESHA%20RASTOGI&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=AI%20Engineer%20%E2%80%A2%20Agentic%20AI%20Developer%20%E2%80%A2%20Open%20Source%20Builder&descSize=18&descAlignY=68"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=500\&size=18\&pause=1000\&color=C084FC\&center=true\&vCenter=true\&width=700\&lines=Building+AI+Systems+That+Actually+Ship;LangChain+%7C+LLMs+%7C+Deep+Learning;Creating+Agentic+AI+Applications;Always+Learning+Always+Building)](https://git.io/typing-svg)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:YOUR_EMAIL)
+[![GitHub](https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Void-Anvesha)
 
 </div>
 
 ---
 
-## 🚀 About Me
+<div align="center">
+
+<img width="100%" src="YOUR_PIXEL_ROOM_IMAGE"/>
+
+</div>
+
+---
+
+# 🧠 AI.OS // SYSTEM INFO
 
 ```python
-class VoidAnvesha:
-    def __init__(self):
-        self.name = "Anvesha"
-        self.role = "AI/ML Developer"
-        self.interests = ["Machine Learning", "LangChain", "NLP", "Deep Learning"]
-        self.currently_working_on = "Agentic AI"
-        self.learning = ["Advanced AI Architectures", "MLOps", "Vector Databases"]
-        self.fun_fact = "I turn coffee into code and ideas into reality ☕➡️💻"
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together! 🌟")
+class Anvesha:
 
-me = VoidAnvesha()
-me.say_hi()
+    def __init__(self):
+
+        self.role = "AI / ML Developer"
+
+        self.specialization = [
+            "Agentic AI",
+            "Advanced RAG",
+            "Large Language Models",
+            "Deep Learning"
+        ]
+
+        self.current_focus = [
+            "Multi-Agent Systems",
+            "AI Automation",
+            "Production AI Apps"
+        ]
+
+        self.learning = [
+            "MLOps",
+            "Vector Databases",
+            "Distributed Systems"
+        ]
+
+        self.status = "Building the future 🚀"
 ```
 
 ---
 
-## 🛠️ Tech Stack & Tools
-
 <div align="center">
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-
-### AI/ML Frameworks
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge)
-
-### Data & Analytics
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
-
-
-
+<img src="https://user-images.githubusercontent.com/74038190/216655848-cf4d7bed-52aa-4740-8c67-1832472051ec.gif" width="700">
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+# ⚡ TECH ARSENAL
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Void-Anvesha&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Void-Anvesha&layout=compact&langs_count=8&theme=react"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Void-Anvesha&theme=react" alt="GitHub Streak"/>
+### Languages
+
+![Skills](https://skillicons.dev/icons?i=python,cpp,js,ts\&theme=dark)
+
+### AI / ML
+
+![Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn\&theme=dark)
+
+### Backend & Cloud
+
+![Skills](https://skillicons.dev/icons?i=fastapi,docker,firebase,aws,mongodb\&theme=dark)
+
+### Tools
+
+![Skills](https://skillicons.dev/icons?i=git,github,linux,vscode,jupyter\&theme=dark)
+
 </div>
 
 ---
 
-## 🎯 Current Focus Areas
+# 🚀 FEATURED PROJECTS
 
 <table>
 <tr>
+
 <td width="50%">
 
-### 🔬 Research & Development
-- Advanced RAG (Retrieval-Augmented Generation) systems
-- Multi-agent AI architectures
-- LangChain ecosystem exploration
-- Vector database optimization
+## 🤖 GitBot AI
+
+AI assistant for GitHub repositories.
+
+**Stack**
+
+* LangChain
+* OpenAI
+* FastAPI
+* Python
+
+**Features**
+
+* Repo understanding
+* Context-aware responses
+* Git assistance
 
 </td>
+
 <td width="50%">
 
-### 🛠️ Building & Creating
-- AI-powered applications
-- MLOps pipelines
-- Open-source contributions
+## 🧠 Advanced RAG
+
+Enterprise-grade retrieval system.
+
+**Stack**
+
+* LangChain
+* ChromaDB
+* Embeddings
+* FastAPI
+
+**Features**
+
+* Semantic Search
+* Smart Retrieval
+* Document QA
 
 </td>
+
 </tr>
+
+<tr>
+
+<td width="50%">
+
+## 📊 Sentiment Analysis
+
+Real-time NLP dashboard.
+
+</td>
+
+<td width="50%">
+
+## 💻 DSA Repository
+
+Algorithms + Problem Solving.
+
+</td>
+
+</tr>
+
 </table>
 
 ---
 
+<div align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/212749695-5d4fcd88-2b4c-49c8-9b87-3a2df0e48f59.gif" width="500">
 
-### 🌟 What I'm Working On
+</div>
 
-```mermaid
-graph TD
-    A[🧠 AI Research] --> B[LangChain Development]
-    B --> C[Agentic AI]
-    C --> D[Production Ready Apps]
-    D --> E[Open Source Contributions]
-    E --> A
+---
+
+# 📚 CURRENTLY LEARNING
+
+```text
+Agentic AI             ████████████████░ 95%
+LangChain              ██████████████░░░ 90%
+LLMs                   █████████████░░░░ 85%
+Deep Learning          ████████████░░░░░ 80%
+RAG Systems            ███████████░░░░░░ 75%
+Vector Databases       █████████░░░░░░░░ 60%
+MLOps                  ███████░░░░░░░░░░ 45%
 ```
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Void-Anvesha&bg_color=1a1b27&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
-</div>
-
----
-
-## 🎨 Skills & Interests
+# 📈 GITHUB ANALYTICS
 
 <div align="center">
 
-| **AI/ML** | **Development** | **Tools & Platforms** |
-|-----------|----------------|----------------------|
-| 🤖 Machine Learning | 🐍 Python Development | 
-| 🧠 Deep Learning | 🌐 Web Development |
-| 📝 Natural Language Processing | 🔗 API Development | 📊 Data Visualization |
-| 🦜 LangChain | ⚡ FastAPI | 📈 MLOps |
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Void-Anvesha&show_icons=true&theme=midnight-purple&hide_border=true"/>
+
+<img height="180em" src="https://streak-stats.demolab.com?user=Void-Anvesha&theme=midnight-purple&hide_border=true"/>
 
 </div>
 
----
-
-## 🌟 Fun Facts & Hobbies
+<br>
 
 <div align="center">
 
-```ascii
-    ☕ Coffee Enthusiast    |    🎵 Music Lover    |    📚 Continuous Learner
-           ▼                          ▼                        ▼
-    Code runs on coffee      Coding with good vibes    Always exploring new tech
-```
-
-</div>
-
-- 🎯 **Goal**: Build AI that makes a positive impact
-- 🌱 **Currently Learning**: Advanced AI architectures and MLOps
-- 💡 **Interested in**: Collaborative AI projects and open-source contributions
-- 🎮 **Fun Fact**: I believe the best code is written when you're having fun!
-
----
-
-## 🤝 Let's Connect!
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Void-Anvesha)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Void-Anvesha&bg_color=0d1117&color=c084fc&line=7c3aed&point=e9d5ff&area=true&hide_border=true"/>
 
 </div>
 
 ---
 
-## 💫 Quote of the Day
+# 🏆 ACHIEVEMENTS
 
 <div align="center">
 
-*"The best way to predict the future is to invent it."* - Alan Kay
+<img src="https://github-profile-trophy.vercel.app/?username=Void-Anvesha&theme=discord&no-frame=true&row=1&column=7"/>
+
+</div>
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=Void-Anvesha&label=Profile%20Views&color=58a6ff&style=flat" alt="Profile Views" />
 
-**Thanks for visiting! ⭐ Star some repos if you find them interesting!**
+
+# 🐍 CONTRIBUTION SNAKE
+
+<div align="center">
+
+<picture>
+
+<source media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/Void-Anvesha/Void-Anvesha/output/github-contribution-grid-snake-dark.svg">
+
+<img src="https://raw.githubusercontent.com/Void-Anvesha/Void-Anvesha/output/github-contribution-grid-snake-dark.svg"/>
+
+</picture>
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+### 💭 Quote of the Day
+
+> "The best model is the one that ships."
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Void-Anvesha&color=C084FC&style=for-the-badge"/>
+
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C026D3,50:7C3AED,100:090011&height=120&section=footer"/>
